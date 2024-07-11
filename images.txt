@@ -17,7 +17,6 @@ xiaoyaliu/alist
 containrrr/watchtower
 chevereto/chevereto:latest
 linuxserver/chevereto
-nmtan/chevereto
 
 #面板类
 pch18/baota
