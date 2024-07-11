@@ -24,6 +24,7 @@ whyour/qinglong
 
 #ttrss
 wangqiru/ttrss
+ghcr.io/cxfksword/douban-api-rs
 wangqiru/opencc-api-server
 wangqiru/mercury-parser-api
 
