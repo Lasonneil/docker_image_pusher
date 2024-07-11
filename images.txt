@@ -17,6 +17,8 @@ xiaoyaliu/alist
 containrrr/watchtower
 chevereto/chevereto:latest
 linuxserver/chevereto
+joxit/docker-registry-ui
+registry:2
 
 #面板类
 pch18/baota
