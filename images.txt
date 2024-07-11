@@ -2,7 +2,7 @@
 #latest_image
 portainer/portainer-ce
 helloz/onenav
-jeessy2/ddns-go
+ghcr.io/jeessy2/ddns-go
 neosmemo/memos
 mattermost/mattermost-enterprise-edition
 jc21/nginx-proxy-manager
