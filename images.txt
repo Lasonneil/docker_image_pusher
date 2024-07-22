@@ -1,5 +1,6 @@
 
 #latest_image
+discourse/base:2.0.20240708-0023
 portainer/portainer-ce
 helloz/onenav
 ghcr.io/jeessy2/ddns-go
